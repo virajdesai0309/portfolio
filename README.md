@@ -170,24 +170,26 @@ Jan 2021 – April 2022 (Process Engineer)
    department of M.S.U Baroda
 
 # Skills
-|Engineering Skills| Technical Skills |
-|--|--|
-| PFD, P&ID development | M.S. Office Excel advanced. |
-| Line Sizing and Hydraulics | M.S. Office Power point. |
-| Pump Sizing | M.S. Office Word. |
-| Vessel Sizing | AFT Products |
-| Instrument Process Data Sheets | AUTOCAD 2020. |
-| Line Lists, Tie in lists & Equipment lists | ASPEN HYSYS Basics|
-| PSV Sizing | Korf Hydraulics. |
-| Philosophies | DWSIM Advanced |
-| Valve Sizing | BLUEBEAM REVU Extreme. |
-| SIL verifications | SMath Studio. |
-| Cause and Effects | Python Basics, intermediate |
-| Functional Logic Diagrams | One Note |
-| Instrument index, and IO lists | HTRI basics |
-| Process Control Systems | Dynamic simulations |
-| Programming | PRO – II basics |
-| AL/ML Based Process Models | PIPE NET basics |
+
+| Engineering Skills            | Technical Skills          |
+| ----------------------------- | ------------------------- |
+| PFD, P&ID development         | 📊 M.S. Office Excel advanced   |
+| Line Sizing and Hydraulics    | 🖥️ M.S. Office Power Point      |
+| Pump Sizing                   | 📝 M.S. Office Word             |
+| Vessel Sizing                 | 🛠️ AFT Products                |
+| Instrument Process Data Sheets| 🖍️ AUTOCAD 2020                 |
+| Line Lists, Tie in lists & Equipment lists | 🌐 ASPEN HYSYS Basics |
+| PSV Sizing                    | 💧 Korf Hydraulics               |
+| Philosophies                  | 🧪 DWSIM Advanced               |
+| Valve Sizing                  | 📐 BLUEBEAM REVU Extreme        |
+| SIL verifications             | 📊 SMath Studio                 |
+| Cause and Effects             | 🐍 Python Basics, intermediate  |
+| Functional Logic Diagrams     | 🗒️ One Note                     |
+| Instrument index, and IO lists| 🌡️ HTRI basics                  |
+| Process Control Systems       | 🔄 Dynamic simulations          |
+| Programming                   | 💻 PRO – II basics               |
+| AL/ML Based Process Models    | 💭 PIPE NET basics               |
+
 
 
 # Education & Qualifications
@@ -215,7 +217,7 @@ Shree Ambe Vidhyalaya, Vadodara — S.S.C
 ## April 2011 -March 2012
 
 I have pursued my S.S.C from Shree Ambe Vidhyalaya with a percentage of 88.4%.
-<![endif]-->
+
 
 # Academic Projects
 
