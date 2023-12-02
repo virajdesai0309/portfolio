@@ -1,6 +1,6 @@
 # Work Experience
 
-## Aleph Technologies Pvt Ltd.
+## Aleph Technologies Pvt Ltd. <img style="float: right;" src="D:\08 Linked In\05 Github\portfolio\assets\img\Aleph Image.png">
 
 Feb 2023 – Current (Process Modelling Engineer)
 
@@ -246,4 +246,4 @@ I have pursued my S.S.C from Shree Ambe Vidhyalaya with a percentage of 88.4%.
 | **Email** | [**_virajdesai0309@gmail.com_**](mailto:virajdesai0309@gmail.com) |
 | **_Link to some of my simulation projects:_** | [**_Process Simulation Projects_**](https://github.com/virajdesai0309/DWSIM-Repo) |
 | **_Link to some of my automation projects on process simulators:_** | [**_Process-Automation_**](https://github.com/virajdesai0309/DWSim-Automation-Repo) |
-| **Link to some of my programming projects:** | [**_Python-Projects_**](https://github.com/virajdesai0309/Python-Practice%20) |
+| **Link to some of my programming projects:** | [**_Python-Projects_**](https://github.com/virajdesai0309/Python-Practice) |
