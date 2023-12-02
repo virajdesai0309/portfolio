@@ -1,6 +1,6 @@
 # Work Experience
 
-## Aleph Technologies Pvt Ltd. <img style="float: right;" src="D:\08 Linked In\05 Github\portfolio\assets\img\Aleph Image.png">
+## Aleph Technologies Pvt Ltd.
 
 Feb 2023 – Current (Process Modelling Engineer)
 
