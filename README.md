@@ -4,6 +4,15 @@
 
 Feb 2023 – Current (Process Modelling Engineer)
 
+### TES-AMM Energy Monitoring and Optimization of MVR [Mechanical Vapor Recompression] Process | Team Size - 2 Members |
+
+- Conducted SCADA Data Analysis to pinpoint critical process parameters contributing to energy waste during startup.
+- Developed a process model in DWSim based on the SCADA System information and process data.
+- Identified energy-intensive equipment, including the forced circulation pump, steam compressor, and centrifuge.
+- Established Key Performance Indicators (KPIs) and presented them to customers and stakeholders, recommending changes to standard operating procedures for improved operational efficiency.
+- Translated Vendor P&ID from Chinese to English for clear communication.
+- Necessary pump curves were also investigated from the vendors site.
+
 ### DWSim to Python Connector | Team Size – 2 Members |
 
  - **DWSim Python Connector Module**, which integrates python into simulation environment to run simulations for a range of process
