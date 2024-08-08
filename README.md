@@ -4,14 +4,29 @@
 
 Feb 2023 – Current (Process Modelling Engineer)
 
+### ABG Hindalco Jharkhand Alumina Hydrate | Team Size – 2 Members |
+- Conducted Case Studies for the **Calcining Process for Alumina Hydrate**.
+- **Process Flow Diagram** was studied to identify the flow patterns and fluidization of solid.
+- **Particle Size Distribution Analysis of Aluminum Hydrate** was done to build process-based models.
+
+### Product Development for Aleph Tech Stack | Team Size – 4 Members |
+- Was involved in product development for **Aleph Tech Stack**. Coordinated with other developers/engineers/designers for the Aleph Tech Stack.
+- Was involved in the back-end calculations and model generation. Some of the generated models were **mixers, splitters, separators, columns, reactors** etc.
+- **Code base** was written and pushed to remote Aleph Repository
+- Necessary selection of **chart types** were done for the UI of the Aleph Co-Pilot
+- Wrote White Papers for **Optimization of Chillers** Units using ALEPH CO-PILOT
+- Wrote White Paper on **Optimization of Distillation Column And Energy Savings** using ALEPH CO-PILOT.
+- Wrote White Papers on **Modelling of Gas Fired Boiler** Using ALEPH CO-PILOT.
+
+
 ### TES-AMM Energy Monitoring and Optimization of MVR [Mechanical Vapor Recompression] Process | Team Size - 2 Members |
 
-- Conducted SCADA Data Analysis to pinpoint critical process parameters contributing to energy waste during startup.
-- Developed a process model in DWSim based on the SCADA System information and process data.
-- Identified energy-intensive equipment, including the forced circulation pump, steam compressor, and centrifuge.
-- Established Key Performance Indicators (KPIs) and presented them to customers and stakeholders, recommending changes to standard operating procedures for improved operational efficiency.
-- Translated Vendor P&ID from Chinese to English for clear communication.
-- Necessary pump curves were also investigated from the vendors site.
+- Conducted **SCADA Data Analysis** to pinpoint critical process parameters contributing to energy waste during startup.
+- Developed a **process model in DWSim** based on the SCADA System information and process data.
+- Identified **energy-intensive equipment**, including the forced circulation pump, steam compressor, and centrifuge.
+- Established **Key Performance Indicators (KPIs)** and presented them to customers and stakeholders, recommending changes to standard operating procedures for improved operational efficiency.
+- Translated **Vendor P&ID from Chinese to English** for clear communication.
+- Necessary **pump curves** were also investigated from the vendors side.
 
 ### DWSim to Python Connector | Team Size – 2 Members |
 
@@ -28,13 +43,11 @@ Feb 2023 – Current (Process Modelling Engineer)
  - The problem statement was the customer was not able to operate the
    column at max capacity. By utilizing the inputs received from
    customer and from the process model the optimization was done.
-	 - Identification of key factors in low feed-rate/throughput.
-	 - Determine optimal operational process variable and then retrofit to
-	   enhance the feed-rate at the least cost/energy.
-	 - Increase overall profit margin of distillation.
+	 - Identification of key factors in **low feed-rate/throughput**.
+	 - Determine optimal operational process variable and then retrofit to enhance the feed-rate at the **least cost/energy**.
+	 - Increase **overall profit margin of distillation**.
  - Site visit was also done to get the necessary process inputs from
-   operators and to get more key insight of process. As well as product
-   demo in beta stage.
+   operators and to get more key insight of process. As well as **product demo** in beta stage.
 
 ### Carbon Emissions and Carbon Footprints Calculator | Team Size – 1 Member |
 
