@@ -4,22 +4,23 @@
 
 Feb 2023 – Current (Process Modelling Engineer)
 
-### ABG Hindalco Jharkhand Alumina Hydrate | Team Size – 2 Members |
+### ABG Hindalco Jharkhand Alumina Hydrate | Team Size – 2 Members | Ongoing |
 - Conducted Case Studies for the **Calcining Process for Alumina Hydrate**.
 - **Process Flow Diagram** was studied to identify the flow patterns and fluidization of solid.
 - **Particle Size Distribution Analysis of Aluminum Hydrate** was done to build process-based models.
+- **DCS** snapshots were studied to retrive necessary process parameters for custom model building.
 
-### Product Development for Aleph Tech Stack | Team Size – 4 Members |
+### Product Development for Aleph Tech Stack | Team Size – 4 Members | Ongoing |
 - Was involved in product development for **Aleph Tech Stack**. Coordinated with other developers/engineers/designers for the Aleph Tech Stack.
 - Was involved in the back-end calculations and model generation. Some of the generated models were **mixers, splitters, separators, columns, reactors** etc.
 - **Code base** was written and pushed to remote Aleph Repository
 - Necessary selection of **chart types** were done for the UI of the Aleph Co-Pilot
-- Wrote White Papers for **Optimization of Chillers** Units using ALEPH CO-PILOT
+- Wrote White Paper for **Optimization of Chillers** Units using ALEPH CO-PILOT
 - Wrote White Paper on **Optimization of Distillation Column And Energy Savings** using ALEPH CO-PILOT.
-- Wrote White Papers on **Modelling of Gas Fired Boiler** Using ALEPH CO-PILOT.
+- Wrote White Paper on **Modelling of Gas Fired Boiler** Using ALEPH CO-PILOT.
 
 
-### TES-AMM Energy Monitoring and Optimization of MVR [Mechanical Vapor Recompression] Process | Team Size - 2 Members |
+### TES-AMM Energy Monitoring and Optimization of MVR [Mechanical Vapor Recompression] Process | Team Size - 2 Members | Completed |
 
 - Conducted **SCADA Data Analysis** to pinpoint critical process parameters contributing to energy waste during startup.
 - Developed a **process model in DWSim** based on the SCADA System information and process data.
@@ -28,12 +29,12 @@ Feb 2023 – Current (Process Modelling Engineer)
 - Translated **Vendor P&ID from Chinese to English** for clear communication.
 - Necessary **pump curves** were also investigated from the vendors side.
 
-### DWSim to Python Connector | Team Size – 2 Members |
+### DWSim to Python Connector | Team Size – 2 Members | Completed |
 
  - **DWSim Python Connector Module**, which integrates python into simulation environment to run simulations for a range of process
    conditions and to get the necessary process/simulated data.
 
-### GODREJ Ambernath Process Optimization Project | Team Size – 2 Members |
+### GODREJ Ambernath Process Optimization Project | Team Size – 2 Members | Completed |
 
  - Enhancing process performance and profitability through retrofit
    optimization and process twin.
@@ -49,7 +50,7 @@ Feb 2023 – Current (Process Modelling Engineer)
  - Site visit was also done to get the necessary process inputs from
    operators and to get more key insight of process. As well as **product demo** in beta stage.
 
-### Carbon Emissions and Carbon Footprints Calculator | Team Size – 1 Member |
+### Carbon Emissions and Carbon Footprints Calculator | Team Size – 1 Member | Completed |
 
  - Currently working on **Carbon Emissions and Carbon Footprints**
    calculator for Singapore, to forecast the reduction of carbon
@@ -57,7 +58,7 @@ Feb 2023 – Current (Process Modelling Engineer)
  - The basis of this project was taken as [McKay-Carbon-Calculator](https://mackaycarboncalculator.beis.gov.uk/overview/emissions-and-primary-energy-consumption/?levers=111111111111111111111111111111111111111111111aaabaaabaaabaaaaaaaaaaaabbabbbcbbaabcaabbaaaagggggggggggggeggggggggggiggiiiqgdgggggggggkgg) and was modified according to Singapore needs and demands for
    [Cambridge cares](https://www.cares.cam.ac.uk/)
 
-### CCGT (Combined Cycle Gas Turbine Power Plant) | Team Size – 2 Members |
+### CCGT (Combined Cycle Gas Turbine Power Plant) | Team Size – 2 Members | Completed |
 
  - Worked on a **Combined Cycle Power Plant** Simulation Case Study to
    optimize the steam flow to the turbines using the python connector.
@@ -66,7 +67,7 @@ Feb 2023 – Current (Process Modelling Engineer)
 
 April 2022 – Jan 2023 (Process engineer, DU: Exxon Mobil)
 
-### BRRF (Baton Rouge Refinery, LA, USA) ESD Migration Project| DED | Team Size 4 Members |
+### BRRF (Baton Rouge Refinery, LA, USA) ESD Migration Project| DED | Team Size 4 Members | Completed |
 
  - Worked on BRRF fire heaters (39 Units) ESD migration project (BRRF
    Fire heaters ESD is a decade’s old pneumatic relay-based systems
@@ -90,7 +91,7 @@ April 2022 – Jan 2023 (Process engineer, DU: Exxon Mobil)
 
 Jan 2021 – April 2022 (Process Engineer)
 
-### FEED P&ID’s update & Philosophies for ADNOC Gas Processing facilities | FEED | Team Size 8 Members |
+### FEED P&ID’s update & Philosophies for ADNOC Gas Processing facilities | FEED | Team Size 8 Members | Completed |
 
  - **Techno-Commercial Proposal** was prepared for Equilibrium Engineering Consultancy (EEC) presenting SOW, Information/Inputs
    required for SOW, Execution strategy and Schedule.
@@ -107,7 +108,7 @@ Jan 2021 – April 2022 (Process Engineer)
    philosophies. **CRS** were prepared and sent to client with necessary
    changes.
 
-### Successfully delivered updated P&ID’s w.r.t Instrumentation to “WOOD PLC” | DED | Team Size 8 Members |
+### Successfully delivered updated P&ID’s w.r.t Instrumentation to “WOOD PLC” | DED | Team Size 8 Members | Completed |
 
  - ADNOC Gas Processing was awarded the DEFINE Stage Contract to **M/s Wood PLC** for studying several **Control and Safety Systems and
    Field Instrumentation in the Habshan & Bab Complex**, and to provide
@@ -122,7 +123,7 @@ Jan 2021 – April 2022 (Process Engineer)
  - Knows about different control systems like **PLC, DCS, MMS, PCS,
    TCS**.
 
-### Process Technology was created for “BSS Technologies” for seawater and brine water electrolyzer. | Basic | Team Size 2 members |
+### Process Technology was created for “BSS Technologies” for seawater and brine water electrolyzer. | Basic | Team Size 2 members | Completed |
 
  - Had a **techno-commercial discussion with BSS Tech team and MD** for
    necessary requirements.
@@ -165,7 +166,7 @@ Jan 2021 – April 2022 (Process Engineer)
 # Achievements & Skills
 
  - Successfully created the **McKay Carbon Calculator SG Version** and
-   delivered it to UK Team
+   delivered it to SG Team
  - Successfully created a **process-based model for Godrej** FADP Column
    and delivered it on cloud-based solution.
  - Successfully delivered **P&ID’s** for construction phase (200+),
