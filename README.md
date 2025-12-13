@@ -1,272 +1,125 @@
-# Work Experience
+## 👨‍💻 Professional Summary  
+Dynamic and results-driven **Process Engineer** with over **5 years of cross-industry experience** in **process modeling, simulation, optimization, and digital twin development**. Proven expertise in leveraging **AI/ML, Python automation, and cloud-based deployment** to deliver **energy efficiency improvements, cost savings, and operational reliability** for global clients in **oil & gas, chemicals, desalination, and power sectors**. Strong background in **front-end and detailed engineering design**, **process safety**, and **techno-commercial project delivery**. Passionate about sustainable engineering and digital transformation in process industries.
 
-## Aleph Technologies Pvt Ltd.
+---
 
-Feb 2023 – Current (Process Modelling Engineer)
+## 🚀 Work Experience  
 
-### ABG Hindalco Jharkhand Alumina Hydrate | Team Size – 2 Members | Ongoing |
-- Conducted Case Studies for the **Calcining Process for Alumina Hydrate**.
-- **Process Flow Diagram** was studied to identify the flow patterns and fluidization of solid.
-- **Particle Size Distribution Analysis of Aluminum Hydrate** was done to build process-based models.
-- **DCS** snapshots were studied to retrive necessary process parameters for custom model building.
+### **Aleph Technologies Pte Ltd.**  
+*Process Modelling Engineer* | Feb 2023 – Present | Singapore (Remote)  
+#### **Evonik – Methionine Crystallization AI/ML Predictive Model** (Germany/Singapore)  
+- Developed an **AI/ML-based predictive monitoring system** using historical DCS/SCADA data to forecast **solid accumulation and vacuum loss** in crystallizers, reducing unplanned shutdowns.  
+- Engineered a **dual-rate accumulation model** incorporating pressure spikes, enthalpy changes, and flow dynamics to differentiate between normal and aggravated fouling regimes.  
+- Introduced an **Accumulation Index (AI)** for real-time risk scoring, enabling **proactive flushing alerts** and reducing operator response time by 40%.  
+- Collaborated with plant operations to **validate model accuracy** and integrate alerts into existing control room dashboards.  
 
-### Product Development for Aleph Tech Stack | Team Size – 4 Members | Ongoing |
-- Was involved in product development for **Aleph Tech Stack**. Coordinated with other developers/engineers/designers for the Aleph Tech Stack.
-- Was involved in the back-end calculations and model generation. Some of the generated models were **mixers, splitters, separators, columns, reactors** etc.
-- **Code base** was written and pushed to remote Aleph Repository
-- Necessary selection of **chart types** were done for the UI of the Aleph Co-Pilot
-- Wrote White Paper for **Optimization of Chillers** Units using ALEPH CO-PILOT
-- Wrote White Paper on **Optimization of Distillation Column And Energy Savings** using ALEPH CO-PILOT.
-- Wrote White Paper on **Modelling of Gas Fired Boiler** Using ALEPH CO-PILOT.
+#### **ACWA Power – Desalination Plant Optimization** (Saudi Arabia)  
+- Conducted **data mining and preliminary analysis** on DCS historian data to identify **energy-saving opportunities** across multiple RO desalination trains.  
+- Built **digital process models** to simulate and optimize specific energy consumption (**kWh/m³**), presenting case studies with **potential savings up to $407,000/year**.  
+- Prepared a **techno-commercial proposal** including solution architecture, implementation roadmap, and ROI analysis for plant-wide optimization.  
 
+#### **Vedanta Alumina Smelter – Fuel & Cooling Water Optimization** (Odisha, India)  
+- Conducted **preliminary energy assessment** to identify optimization opportunities in fuel oil and cooling water consumption.  
+- Analyzed **DCS data trends** and calculated **specific energy consumption (SEC)** to establish performance baselines.  
+- Recommended **optimized setpoints for air-to-hydrate and air-to-fuel ratios**, achieving **daily savings of $7,000 in fuel and $700 in cooling water**.  
+- Prepared a **techno-commercial proposal** detailing project scope, methodology, timeline, and cost-benefit analysis.  
 
-### TES-AMM Energy Monitoring and Optimization of MVR [Mechanical Vapor Recompression] Process | Team Size - 2 Members | Completed |
+#### **SWANCOR – Condenser Feasibility & Optimization** (Taiwan)  
+- Developed and refined **digital twin models** to investigate **solvent loss issues** in specialty chemical condensers.  
+- Analyzed **TEMA sheets, P&IDs, and control system data** to identify root causes of operational inefficiencies.  
+- Recommended **optimized DCS setpoints** that reduced vapor losses and improved **condenser efficiency by 12–15%**.  
+- Collaborated with SWANCOR’s engineering team to validate model predictions and implement improvements.  
 
-- Conducted **SCADA Data Analysis** to pinpoint critical process parameters contributing to energy waste during startup.
-- Developed a **process model in DWSim** based on the SCADA System information and process data.
-- Identified **energy-intensive equipment**, including the forced circulation pump, steam compressor, and centrifuge.
-- Established **Key Performance Indicators (KPIs)** and presented them to customers and stakeholders, recommending changes to standard operating procedures for improved operational efficiency.
-- Translated **Vendor P&ID from Chinese to English** for clear communication.
-- Necessary **pump curves** were also investigated from the vendors side.
+#### **ABG Hindalco – Alumina Calcination Fuel Optimization** (Jharkhand, India)  
+- Performed **particle size distribution analysis** and **process modeling** to optimize **Specific Thermal Energy of Calcination (STEC)** while maintaining product quality.  
+- Developed **custom DWSIM models** using PFDs and DCS snapshots to identify optimal **air-to-fuel and air-to-hydrate ratios**.  
+- Delivered a **techno-commercial proposal** with detailed engineering recommendations, expected outcomes, and cost-benefit analysis.  
 
-### DWSim to Python Connector | Team Size – 2 Members | Completed |
+#### **GODREJ – Distillation Column Retrofit Optimization** (Maharashtra, India)  
+- Created a **digital twin of the FADP distillation column** in DWSIM to diagnose throughput limitations and identify retrofit opportunities.  
+- Conducted **on-site visits** to gather operator insights and validate simulation assumptions, leading to a **10–15% increase in feed rate** with minimal energy penalty.  
+- Deployed the optimized model on a **cloud-based platform** for real-time monitoring and scenario analysis.  
 
- - **DWSim Python Connector Module**, which integrates python into simulation environment to run simulations for a range of process
-   conditions and to get the necessary process/simulated data.
+#### **TES-AMM – MVR Process Energy Optimization** (Singapore)  
+- Analyzed **SCADA data trends** to pinpoint **energy waste during startup operations** in a Mechanical Vapor Recompression system.  
+- Built a **detailed process model in DWSIM** to simulate pumps, compressors, and heat exchangers, identifying **key performance bottlenecks**.  
+- Translated **Chinese P&IDs into English** and extracted pump curves from vendor documents to enhance model accuracy.  
 
-### GODREJ Ambernath Process Optimization Project | Team Size – 2 Members | Completed |
+#### **Aleph Tech Stack – Product Development & Features**  
+- Contributed to the **development of Aleph’s digital twin platform**, designing backend calculation modules for **mixers, columns, reactors, and separators**.  
+- Authored **white papers** on optimization of chillers, distillation columns, and gas-fired boilers using **ALEPH CO-PILOT**.  
+- Developed a **Python–DWSIM connector** to enable **batch simulation, automated data extraction, and parametric studies**, reducing manual effort by 60%.  
 
- - Enhancing process performance and profitability through retrofit
-   optimization and process twin.
- - Process Model was prepared by looking into key engineering
-   deliverables received from customer **(P&ID’s, Datasheets, Process
-   Data) in DWSim.**
- - The problem statement was the customer was not able to operate the
-   column at max capacity. By utilizing the inputs received from
-   customer and from the process model the optimization was done.
-	 - Identification of key factors in **low feed-rate/throughput**.
-	 - Determine optimal operational process variable and then retrofit to enhance the feed-rate at the **least cost/energy**.
-	 - Increase **overall profit margin of distillation**.
- - Site visit was also done to get the necessary process inputs from
-   operators and to get more key insight of process. As well as **product demo** in beta stage.
+#### Carbon Emissions and Carbon Footprints Calculator | Team Size – 1 Member | Completed |
 
-### Carbon Emissions and Carbon Footprints Calculator | Team Size – 1 Member | Completed |
-
- - Currently working on **Carbon Emissions and Carbon Footprints**
-   calculator for Singapore, to forecast the reduction of carbon
-   emissions by reducing the demands today.
+ - Currently working on **Carbon Emissions and Carbon Footprints** calculator for Singapore, to forecast the reduction of carbon emissions by reducing the demands today.
  - The basis of this project was taken as [McKay-Carbon-Calculator](https://mackaycarboncalculator.beis.gov.uk/overview/emissions-and-primary-energy-consumption/?levers=111111111111111111111111111111111111111111111aaabaaabaaabaaaaaaaaaaaabbabbbcbbaabcaabbaaaagggggggggggggeggggggggggiggiiiqgdgggggggggkgg) and was modified according to Singapore needs and demands for
    [Cambridge cares](https://www.cares.cam.ac.uk/)
 
-### CCGT (Combined Cycle Gas Turbine Power Plant) | Team Size – 2 Members | Completed |
+#### CCGT (Combined Cycle Gas Turbine Power Plant) | Team Size – 2 Members | Completed |
 
- - Worked on a **Combined Cycle Power Plant** Simulation Case Study to
-   optimize the steam flow to the turbines using the python connector.
+ - Worked on a **Combined Cycle Power Plant** Simulation Case Study to optimize the steam flow to the turbines using the python connector.
+---
 
-## Larsen & Toubro Technology Services
+### **AFZAR Consultants LLC**  
+*Process Engineer* | Jan 2021 – Apr 2022  
 
-April 2022 – Jan 2023 (Process engineer, DU: Exxon Mobil)
+#### **ADNOC Gas Processing – FEED & DED Engineering** (Abu Dhabi, UAE)  
+- Delivered **25+ updated FEED P&IDs** and defined **isolation, vent/drain, and ESD philosophies** for the Habshan-3 NGI compressor conversion project.  
+- Provided **process support for instrumentation upgrades**, revising **250+ P&IDs** based on obsolescence reports and I/O lists for **WOOD PLC**.  
+- Participated in **alarm rationalization workshops** for ADNOC offshore facilities (**NGTP, UZ, GPF**).  
 
-### BRRF (Baton Rouge Refinery, LA, USA) ESD Migration Project| DED | Team Size 4 Members | Completed |
+#### **BSS Technologies – Electro-Chlorination Plant Design**  
+- Developed **basic engineering package** including PFDs, P&IDs, H&MB, line sizing, and equipment datasheets for seawater-based sodium hypochlorite generation.  
+- Performed **hydraulic calculations** and supported **3D modeling in AutoCAD 2020**.  
+- Coordinated with vendors for **pump curves and material specifications**, ensuring design compliance with client requirements.  
 
- - Worked on BRRF fire heaters (39 Units) ESD migration project (BRRF
-   Fire heaters ESD is a decade’s old pneumatic relay-based systems
-   operating beyond life expectancy)
- - **BRRF** was experiencing increased trip rate over most of the recent years. Project was in 2 phases comprising of 39 furnaces.
- - Worked on updating **P&ID’s** for construction phase (200+), **Safety
-   critical devices** (SCD) lists (39), **Cause and effects (C&E’s)**
-   (39) and **Process control narrative** (39). Several documents
-   consisting of IO lists, FLD’s, Set-point / Trip-point list were
-   referred.
- - Understanding of **control systems of Fire heaters in refineries**,
-   different modes of operations, **API 560**
- - Workflow was set up in **WRENCH** system for smooth execution of
-   project. Phases included **IDC, ITR, Final Review and Approval.**
- - **Global Management of Change (GMOC)** packages were prepared after final issue of individual furnace unit.
- - SIL vendor meetings were organized to discuss about the upgradation
-   of project. exSILentia generated SIL reports were used as reference
-   for **SIS (Safety Instrumented Systems)** section in GMOC package.
+---
 
-## AFZAR Consultants LLC
+## 🛠️ Technical Skills  
 
-Jan 2021 – April 2022 (Process Engineer)
+| **Process Engineering**        | **Simulation & Digital Tools**   | **Programming & Automation**     | **Software & Platforms**        |
+|-------------------------------|----------------------------------|----------------------------------|---------------------------------|
+| PFD & P&ID Development        | DWSIM (Advanced)                | Python (Data Analysis, Automation) | Aspen HYSYS, PRO-II            |
+| Line Sizing & Hydraulics      | Digital Twin Modelling           | DWSim-Python Connector           | HTRI, AFT Products              |
+| PSV Sizing (API 520)          | Cloud Deployment of Models       | Batch Simulation Scripts         | AutoCAD, Bluebeam Revu          |
+| SIL Verification, C&E Diagrams| Static & Dynamic Simulation      | Jupyter Notebooks                | SMath Studio, Pipe-Net          |
+| HAZOP, Alarm Rationalization  | Korf Hydraulics                  | Excel VBA, Macros                | MS Office Suite                 |
+| Process Safety Philosophies   | PRO-II, HTRI Basics              | Git Version Control              | OneNote, SharePoint             |
 
-### FEED P&ID’s update & Philosophies for ADNOC Gas Processing facilities | FEED | Team Size 8 Members | Completed |
+---
 
- - **Techno-Commercial Proposal** was prepared for Equilibrium Engineering Consultancy (EEC) presenting SOW, Information/Inputs
-   required for SOW, Execution strategy and Schedule.
- - Successfully delivered updated FEED P&ID’s for the **“Conversion of
-   HABSHAN-3 NGI Compressor for Unit 394”** and defining philosophies
-   for Equilibrium Engineering Company.
- - Several **DGS** were referred, **Isolation envelopes** were prepared,
-   **Pressure envelopes** were prepared, **PMS**, **C&E’s, H&MB’s** were referred to get relevant information.
- - Following Philosophies were defined during the project:
-	 - **Isolation, Vent and Drain Philosophy** (PRE-FEED)
-	 - **Emergency Shutdown & Depressurization Philosophy** (FROM FEED)
-	 - **Drain Philosophy** (PRE-FEED)
- - Amount of **FEED P&ID’s updated were 25** as per defined
-   philosophies. **CRS** were prepared and sent to client with necessary
-   changes.
+## 📂 GitHub Portfolio & Projects  
 
-### Successfully delivered updated P&ID’s w.r.t Instrumentation to “WOOD PLC” | DED | Team Size 8 Members | Completed |
+- **[Process Simulation Repository](https://github.com/virajdesai0309/DWSIM-Repo)** – A collection of DWSIM models for **distillation, reactors, heat exchangers, and energy systems** used in client projects.  
+- **[Process Automation Repository](https://github.com/virajdesai0309/DWSim-Automation-Repo)** – Python-based tools for **automating simulations, data extraction, and parametric studies** using the DWSim-Python connector.  
+- **[Python Practice Projects](https://github.com/virajdesai0309/Python-Practice)** – Scripts for **data analysis, visualization, equipment curve fitting, and workflow automation** in process engineering contexts.  
 
- - ADNOC Gas Processing was awarded the DEFINE Stage Contract to **M/s Wood PLC** for studying several **Control and Safety Systems and
-   Field Instrumentation in the Habshan & Bab Complex**, and to provide
-   recommendations regarding upgrades and replacements.
- - **Process support** was provided to instrumentation department to make necessary instruments replacements in **P&ID’s by referring to
-   obsolescence report**, index report and site survey files received
-   from WOOD.
- - Several engineering documents were referred like INDEX report,
-   Obsolescence study report, I/O lists, FLD’s, **Instruments data
-   sheets etc.**
- - And P&ID marking were done using BLUEBEAM REVU Extreme.
- - Knows about different control systems like **PLC, DCS, MMS, PCS,
-   TCS**.
+---
 
-### Process Technology was created for “BSS Technologies” for seawater and brine water electrolyzer. | Basic | Team Size 2 members | Completed |
+## 🏆 Key Achievements  
+- ✅ Developed **Singapore-specific McKay Carbon Calculator** for NUS and investor use in emission forecasting.  
+- ✅ Delivered **200+ P&IDs, 39 C&E diagrams, and 39 Process Control Narratives** for ExxonMobil’s refinery ESD upgrade.  
+- ✅ Created and deployed a **cloud-based digital twin for GODREJ’s FADP column**, enabling real-time optimization.  
+- ✅ Won **2nd Prize in Gujarat Cleaner Production Centre** competition for innovative waste management technology.  
+- ✅ **Qualified CII Industrial Proficiency Test (2020)** | **Topper in Polymer Technology, MSU Baroda**.  
 
- - Had a **techno-commercial discussion with BSS Tech team and MD** for
-   necessary requirements.
- - Design and process calculations were done in MS- EXCEL and proposal
-   was sent.
- - **Heat and Mass Balance** were performed.
- - Preparation of **PFD** was done.
- - Basic engineering was also done in terms of **PID marking, making and
-   drafting in AUTOCAD 2020**.
- - **Line Hydraulics** were done.
- - Preparation of **line list** and was also done.
- - **Process equipment datasheets** were made and sent to senior process engineer.
- - Several **vendor documents** were refereed and cross checked with the
-   existing calculations.
- - 3D modelling was done in AUTOCAD 2020 and meeting with Client was
-   organized.
- - Successfully completed the entire design of electro chlorination
-   project and a proposal was sent to BSS Tech.
+---
 
-### Helped senior process engineer in getting quotation for CFD software to get a proposal for BID of project on “Molten Sulphur Pipeline”.
+## 🎓 Education  
+- **M.E. in Polymer Technology** – Maharaja Sayajirao University, Baroda (First Class with Distinction, 70.1%)  
+- **B.E. in Chemical Engineering** – Gujarat Technological University (CGPA: 8.86/10)  
+- **Higher Secondary Certificate** – Baroda Public School (64.8%)  
+- **Secondary School Certificate** – Shree Ambe Vidhyalaya (88.4%)  
 
- - **Vendors dealing with ANSYS** were contacted to get a quotation of software.
- - Apart from this **OLGA Dynamic Multiphase Flow Simulator quotation**
-   was also caught for CFD.
+---
 
-### Participated in workshop on “Introduction and application of HAZOP in process industries” driven by Velosi.
+## 📬 Let’s Connect  
+- 📍 **Address:** B/17 Poonam Complex, Waghodia Road, Vadodara, Gujarat 390019  
+- 📩 **Email:** [virajdesai0309@gmail.com](mailto:virajdesai0309@gmail.com)  
+- 📱 **Phone/WhatsApp:** +91-8849093417  
+- 🔗 **GitHub:** [github.com/virajdesai0309](https://github.com/virajdesai0309)  
+- 🔗 **LinkedIn:** [linkedin.com/in/viraj-desai-0309](https://www.linkedin.com/in/viraj-desai-0309)  
 
-### Participated in “Alarm Rationalization” for ADNOC Offshore driven by wood PLC. | DED | Team Size 2 members |
+---
 
- - Done for NGTP, UZ and GPF plants of ADNOC offshore facilities.
- - **Marking of alarms** were done using Blue Beam Revu 32 and were sent to senior process engineer.
- - Also got appointed as backup scribe for workshop.
-
-### Design templates of following calculation were made for AFZAR Consultants LLC using Smath Studio/Excel.
-
- - PSV/PRV using API 520.
- - Shell and tube heat exchangers.
- - Line Sizing/ Pressure drop/ Rotameter.
- 
-# Achievements & Skills
-
- - Successfully created the **McKay Carbon Calculator SG Version** and
-   delivered it to SG Team
- - Successfully created a **process-based model for Godrej** FADP Column
-   and delivered it on cloud-based solution.
- - Successfully delivered **P&ID’s** for construction phase (200+),
-   **Safety critical devices** (SCD) lists (39), **Cause and effects (C&E’s)** (39) and **Process control narrative** (39) to ExxonMobil
-   team in USA.
- - Successfully delivered GMOC (2) to ExxonMobil team to the USA.
- - Successfully defined three philosophies for EEC on “**Conversion of
-   HABSHAN-3 NGI Compressor for Unit 394**” with all revisions and
-   updated PID’s defined from FEED stage.
- - Successfully delivered more than **250+ P&ID’s to WOOD PLC** in the
-   given stipulated time period with 3 revisions by referring to all the
-   inputs received from **ADNOC gas processing facilities**.
- - Developed a new process technology for AFZAR Consultants on sea water
-   desalination “**For the creation of Sodium Hypochlorite production by
-   electrolyzer**” for **BSS Technology**
- - Developed a new tech on Waste management & received 2nd prize all
-   over **Gujarat-by-Gujarat Cleaner Production Centre,**
- - Also received a cash price for the same of Rs 5000.
- - And article was also published in magazine of interlinking of
-   **industries – academia – government**.
- - **CII - Industrial Proficiency Test** **Qualified Candidate for 2020.**
- - Certified excel user by Upgrad.
- - Topper of the batch 2020 Polymer technology in Chemical engineering
-   department of M.S.U Baroda
-
-# Skills
-
-| Engineering Skills            | Technical Skills          |
-| ----------------------------- | ------------------------- |
-| PFD, P&ID development         | 📊 M.S. Office Excel advanced   |
-| Line Sizing and Hydraulics    | 🖥️ M.S. Office Power Point      |
-| Pump Sizing                   | 📝 M.S. Office Word             |
-| Vessel Sizing                 | 🛠️ AFT Products                |
-| Instrument Process Data Sheets| 🖍️ AUTOCAD 2020                 |
-| Line Lists, Tie in lists & Equipment lists | 🌐 ASPEN HYSYS Basics |
-| PSV Sizing                    | 💧 Korf Hydraulics               |
-| Philosophies                  | 🧪 DWSIM Advanced               |
-| Valve Sizing                  | 📐 BLUEBEAM REVU Extreme        |
-| SIL verifications             | 📊 SMath Studio                 |
-| Cause and Effects             | 🐍 Python Basics, intermediate  |
-| Functional Logic Diagrams     | 🗒️ One Note                     |
-| Instrument index, and IO lists| 🌡️ HTRI basics                  |
-| Process Control Systems       | 🔄 Dynamic simulations          |
-| Programming                   | 💻 PRO – II basics               |
-| AL/ML Based Process Models    | 💭 PIPE NET basics               |
-
-
-
-# Education & Qualifications
-
-## Maharaja SayajiRao University, F.T.E, Vadodara — M.E (Polymer Tech)
-
-June 2018 - Oct 2020
-
-I have pursued my Master of Engineering from Maharaja SayajiRao University, F.T.E. with a first-class distinction of 70.1 %.
-
-## Gujarat Technological University, Ahmedabad — B.E (Chemical Engineering)
-
-June 2014 - Aug 2018
-
-I have pursued my Bachelor’s in Engineering from G.T.U with a C.G.P.A of 8.86.
-
-## Baroda Public School, Waghodia Road, Vadodara — H.S.C
-
-April 2012 - May 2014
-
-I have pursued my H.S.C from Baroda Public School with a percentage of 64.8%.
-
-Shree Ambe Vidhyalaya, Vadodara — S.S.C
-
-## April 2011 -March 2012
-
-I have pursued my S.S.C from Shree Ambe Vidhyalaya with a percentage of 88.4%.
-
-
-# Academic Projects
-
-## M.E — Polymer Modified Bitumen
-
-- Solo Project on Plastic waste management
-- Approved by GCPC
-- Published in Article interlinking of academia industries and government
-- Lab Testing done
-	- Marshal Stability Test
-	- Marshall Flow value
-	- Penetration test
-	- Ductility test
-	- Softening test
-
-## B.E — Design of a L.L.E packed tower Extraction Column
-
-- Group Project was on L.L.E Tower Design
-- Theoretical Calculation were done
-- Design creation was done in Solid works
-
-| Labels | Hyperlinks/Info |
-|--|--|
-| **_Address_** | **_B/17 Poonam Complex; Tenaments Waghodia Road, Vadodara, 390019_** |
-| **_Mobile_** | **_+91 8849093417_** |
-| **Email** | [**_virajdesai0309@gmail.com_**](mailto:virajdesai0309@gmail.com) |
-| **_Link to some of my simulation projects:_** | [**_Process Simulation Projects_**](https://github.com/virajdesai0309/DWSIM-Repo) |
-| **_Link to some of my automation projects on process simulators:_** | [**_Process-Automation_**](https://github.com/virajdesai0309/DWSim-Automation-Repo) |
-| **Link to some of my programming projects:** | [**_Python-Projects_**](https://github.com/virajdesai0309/Python-Practice) |
