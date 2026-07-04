@@ -1,12 +1,59 @@
 ## 👨‍💻 Professional Summary  
-Dynamic and results-driven **Process Engineer** with over **5 years of cross-industry experience** in **process modeling, simulation, optimization, and digital twin development**. Proven expertise in leveraging **AI/ML, Python automation, and cloud-based deployment** to deliver **energy efficiency improvements, cost savings, and operational reliability** for global clients in **oil & gas, chemicals, desalination, and power sectors**. Strong background in **front-end and detailed engineering design**, **process safety**, and **techno-commercial project delivery**. Passionate about sustainable engineering and digital transformation in process industries.
+Dynamic and results-driven **Process Engineer** with over **5 years of cross-industry experience** spanning **P&ID digitization, process modeling, simulation, optimization, and digital twin development**. Proven expertise in leveraging **AI/ML, Python automation, knowledge graph construction, and cloud-based deployment** to deliver **energy efficiency improvements, cost savings, and operational reliability** for global clients in **oil & gas, chemicals, desalination, and power sectors**. Strong background in **P&ID digitization workflows, front-end and detailed engineering design, process safety**, and **techno-commercial project delivery**. Passionate about sustainable engineering and digital transformation in process industries.
 
 ---
 
 ## 🚀 Work Experience  
 
+### **Cerebre**  
+*P&ID Solutions Engineer* | Jan 2026 – Present | Dallas, Texas, USA (Remote)  
+
+Supported Cerebre's P&ID digitization operations, leading triage, diagram solving in Studio Pro, quality assurance, and regex development across multiple client sites (ExxonMobil, Chevron, Shell), while contributing ML domain expertise for object detection algorithm development.
+
+- Conducted **triage of P&ID drawings (.dwg files)** to verify proper rendering in Studio Pro and reported technical issues to the development team for resolution.
+- Converted engineering drawings into **structured knowledge graphs** by identifying and mapping equipment, pipelines, and instrumentation as nodes and relationships (edges) using Studio Pro.
+- Performed **quality assurance checks** on solved diagrams through cross-review with implementation engineers prior to ingestion into the Plant Graph platform.
+- Developed **regex rules for multiple client sites** including ExxonMobil, Chevron, and Shell to standardize tag recognition and improve data extraction accuracy.
+- Assisted in **feature ideation and improvement proposals** for Studio Pro and Plant Graph to enhance platform capabilities.
+- Collaborated with developers and cross-functional teams by **raising and tracking technical issues through JIRA** and maintaining communication via Slack.
+- Supported **client onboarding** and technical understanding of Studio Pro workflows and digital P&ID concepts.
+
+#### **ExxonMobil Sustainment — Sarnia (Canada), Nanticoke (Canada), Rotterdam (Netherlands)**
+*Sustainment Solver/Engineer | Team Sizes: 10 / 15 / 18 | Projects Completed*
+
+- Analyzed client-side revision changes (additions/deletions) to P&ID drawings across multiple sustainment cycles, ensuring updates were accurately reflected in Plant Graph without breaking existing data.
+- Flagged rendering, drafting, and data anomalies to the triage lead prior to team execution, improving downstream solving accuracy.
+- Performed UUID mapping of data enrichments post-diagram-solving to prevent Plant Graph integration issues.
+- Generated final Health Check reports (asset connections, symbol type, line type) and raised JIRA tickets for rectification, closing the loop on quality issues across all three sites.
+
+#### **Phillips66 – Humber Refinery** (England)
+*P&ID Solutions Engineer | Team Size: 20 | Project Completed*
+
+- Supported digitization of **450+ P&ID diagrams** for Phillips66's Humber Refinery, from project kickoff and scope alignment through triage, solving, QA, and final ingestion into **Plant Graph**.
+- Led triage activities and tracked issues via **JIRA** to ensure diagrams were review-ready before solving began.
+- Identified and tagged equipment symbols per **taxonomy standards**, then mapped lines, asset connections, and flow relationships to construct accurate **knowledge graphs**.
+- Performed **QA reviews** on solved diagrams followed by **Health Checks** prior to Plant Graph ingestion.
+- Applied diagram interpretation guidance and client-specific solving conventions, incorporating client feedback to maintain consistency across the full diagram set.
+
+#### **Cerebre – Internal Developments (StudioPro Performance Center)**
+*SME/Reviewer | Team Size: 3 | Project Completed*
+
+- Led **Solving Guidance cleanup** for ExxonMobil to improve the accuracy of data captured and fed into the **RAG** pipeline.
+- Ran validation tests and checks on cleaned data to confirm outputs retrieved from the original source were accurate and consistent.
+- Contributed to **query engine optimization** by benchmarking results against ground truth data.
+- Provided **UI feedback** to the development team, supporting several platform usability enhancements.
+
+#### **Cerebre – Internal Developments (ML Team Object Detection)**
+*Sustainment Solver/Engineer | Team Size: 18 | Project Completed*
+
+- Collaborated with the **ML team** to train and fine-tune models for identifying P&ID symbols and lines, adapting **LLM prompts** per client site.
+- Refined a **text-association algorithm** that captured text based on both asset location and regex-based pattern matching, improving association accuracy.
+- Built **Train/Test/Validation data splits** for every ExxonMobil site by referencing site-specific complexity reports, generating Python dictionaries used for LLM training.
+
+---
+
 ### **Aleph Technologies Pte Ltd.**  
-*Process Modelling Engineer* | Feb 2023 – Present | Singapore (Remote)  
+*Process Modelling Engineer* | Feb 2023 – Jan 2026 | Singapore (Remote)  
 #### **Evonik – Methionine Crystallization AI/ML Predictive Model** (Germany/Singapore)  
 - Developed an **AI/ML-based predictive monitoring system** using historical DCS/SCADA data to forecast **solid accumulation and vacuum loss** in crystallizers, reducing unplanned shutdowns.  
 - Engineered a **dual-rate accumulation model** incorporating pressure spikes, enthalpy changes, and flow dynamics to differentiate between normal and aggravated fouling regimes.  
@@ -28,7 +75,7 @@ Dynamic and results-driven **Process Engineer** with over **5 years of cross-ind
 - Developed and refined **digital twin models** to investigate **solvent loss issues** in specialty chemical condensers.  
 - Analyzed **TEMA sheets, P&IDs, and control system data** to identify root causes of operational inefficiencies.  
 - Recommended **optimized DCS setpoints** that reduced vapor losses and improved **condenser efficiency by 12–15%**.  
-- Collaborated with SWANCOR’s engineering team to validate model predictions and implement improvements.  
+- Collaborated with SWANCOR's engineering team to validate model predictions and implement improvements.  
 
 #### **ABG Hindalco – Alumina Calcination Fuel Optimization** (Jharkhand, India)  
 - Performed **particle size distribution analysis** and **process modeling** to optimize **Specific Thermal Energy of Calcination (STEC)** while maintaining product quality.  
@@ -46,7 +93,7 @@ Dynamic and results-driven **Process Engineer** with over **5 years of cross-ind
 - Translated **Chinese P&IDs into English** and extracted pump curves from vendor documents to enhance model accuracy.  
 
 #### **Aleph Tech Stack – Product Development & Features**  
-- Contributed to the **development of Aleph’s digital twin platform**, designing backend calculation modules for **mixers, columns, reactors, and separators**.  
+- Contributed to the **development of Aleph's digital twin platform**, designing backend calculation modules for **mixers, columns, reactors, and separators**.  
 - Authored **white papers** on optimization of chillers, distillation columns, and gas-fired boilers using **ALEPH CO-PILOT**.  
 - Developed a **Python–DWSIM connector** to enable **batch simulation, automated data extraction, and parametric studies**, reducing manual effort by 60%.  
 
@@ -61,8 +108,25 @@ Dynamic and results-driven **Process Engineer** with over **5 years of cross-ind
  - Worked on a **Combined Cycle Power Plant** Simulation Case Study to optimize the steam flow to the turbines using the python connector.
 ---
 
+### **Larsen & Toubro Technology Services**  
+*Process Engineer* | Apr 2022 – Jan 2023 | Vadodara, India (On-site)  
+
+Delivered engineering design and safety validation projects for refining and energy sectors, including ESD migration and SIL verification, ensuring compliance with global standards.
+
+#### **ExxonMobil Baton Rouge Refinery – ESD Migration Project** (Louisiana, USA)  
+*Detailed Engineering Design (DED) | Team Size: 4 | Project Completed*  
+
+- Executed **ESD migration for 39 fire heaters** to replace decade-old pneumatic relay systems, reducing frequent trip incidents.  
+- Updated **200+ P&IDs**, 39 **Safety Critical Device (SCD) lists**, **Cause & Effect (C&E) diagrams**, and **Process Control Narratives** for the construction phase.  
+- Collaborated on documentation for IO lists, FLDs, and trip-point settings.  
+- Coordinated **workflow through WRENCH** for IDC, ITR, and final approval stages.  
+- Prepared **Global Management of Change (GMOC) packages** for each furnace, ensuring compliance.  
+- Facilitated **SIL vendor meetings** and utilized exSILentia reports for SIS validation as per **API 560** standards.
+
+---
+
 ### **AFZAR Consultants LLC**  
-*Process Engineer* | Jan 2021 – Apr 2022  
+*Process Engineer* | Jan 2021 – Apr 2022 | Vadodara, India (Remote)  
 
 #### **ADNOC Gas Processing – FEED & DED Engineering** (Abu Dhabi, UAE)  
 - Delivered **25+ updated FEED P&IDs** and defined **isolation, vent/drain, and ESD philosophies** for the Habshan-3 NGI compressor conversion project.  
@@ -78,14 +142,14 @@ Dynamic and results-driven **Process Engineer** with over **5 years of cross-ind
 
 ## 🛠️ Technical Skills  
 
-| **Process Engineering**        | **Simulation & Digital Tools**   | **Programming & Automation**     | **Software & Platforms**        |
-|-------------------------------|----------------------------------|----------------------------------|---------------------------------|
-| PFD & P&ID Development        | DWSIM (Advanced)                | Python (Data Analysis, Automation) | Aspen HYSYS, PRO-II            |
-| Line Sizing & Hydraulics      | Digital Twin Modelling           | DWSim-Python Connector           | HTRI, AFT Products              |
-| PSV Sizing (API 520)          | Cloud Deployment of Models       | Batch Simulation Scripts         | AutoCAD, Bluebeam Revu          |
-| SIL Verification, C&E Diagrams| Static & Dynamic Simulation      | Jupyter Notebooks                | SMath Studio, Pipe-Net          |
-| HAZOP, Alarm Rationalization  | Korf Hydraulics                  | Excel VBA, Macros                | MS Office Suite                 |
-| Process Safety Philosophies   | PRO-II, HTRI Basics              | Git Version Control              | OneNote, SharePoint             |
+| **Process Engineering**        | **P&ID Digitization & Data**     | **Simulation & Digital Tools**   | **Programming & Automation**     | **Software & Platforms**        |
+|-------------------------------|-----------------------------------|----------------------------------|-----------------------------------|----------------------------------|
+| PFD & P&ID Development        | Studio Pro Diagram Solving       | DWSIM (Advanced)                 | Python (Data Analysis, Automation) | Aspen HYSYS, PRO-II            |
+| Line Sizing & Hydraulics      | Knowledge Graph Construction     | Digital Twin Modelling           | DWSim-Python Connector           | HTRI, AFT Products              |
+| PSV Sizing (API 520)          | Plant Graph QA & Ingestion       | Cloud Deployment of Models       | LLM Prompt Engineering (ML/RAG)  | AutoCAD, Bluebeam Revu          |
+| SIL Verification, C&E Diagrams| Regex Development (Multi-Site)   | Static & Dynamic Simulation      | Batch Simulation Scripts         | SMath Studio, Pipe-Net          |
+| HAZOP, Alarm Rationalization  | JIRA Issue Tracking              | Korf Hydraulics                  | Excel VBA, Macros                | MS Office Suite                 |
+| Process Safety Philosophies   | ML/Object Detection Support      | PRO-II, HTRI Basics              | Git Version Control              | OneNote, SharePoint             |
 
 ---
 
@@ -98,9 +162,10 @@ Dynamic and results-driven **Process Engineer** with over **5 years of cross-ind
 ---
 
 ## 🏆 Key Achievements  
+- ✅ Supported **P&ID digitization of 450+ diagrams** for Phillips66's Humber Refinery, from triage through Plant Graph ingestion.  
 - ✅ Developed **Singapore-specific McKay Carbon Calculator** for NUS and investor use in emission forecasting.  
-- ✅ Delivered **200+ P&IDs, 39 C&E diagrams, and 39 Process Control Narratives** for ExxonMobil’s refinery ESD upgrade.  
-- ✅ Created and deployed a **cloud-based digital twin for GODREJ’s FADP column**, enabling real-time optimization.  
+- ✅ Delivered **200+ P&IDs, 39 C&E diagrams, and 39 Process Control Narratives** for ExxonMobil's refinery ESD upgrade.  
+- ✅ Created and deployed a **cloud-based digital twin for GODREJ's FADP column**, enabling real-time optimization.  
 - ✅ Won **2nd Prize in Gujarat Cleaner Production Centre** competition for innovative waste management technology.  
 - ✅ **Qualified CII Industrial Proficiency Test (2020)** | **Topper in Polymer Technology, MSU Baroda**.  
 
@@ -114,7 +179,7 @@ Dynamic and results-driven **Process Engineer** with over **5 years of cross-ind
 
 ---
 
-## 📬 Let’s Connect  
+## 📬 Let's Connect  
 - 📍 **Address:** B/17 Poonam Complex, Waghodia Road, Vadodara, Gujarat 390019  
 - 📩 **Email:** [virajdesai0309@gmail.com](mailto:virajdesai0309@gmail.com)  
 - 📱 **Phone/WhatsApp:** +91-8849093417  
@@ -122,4 +187,3 @@ Dynamic and results-driven **Process Engineer** with over **5 years of cross-ind
 - 🔗 **LinkedIn:** [linkedin.com/in/viraj-desai-0309](https://www.linkedin.com/in/viraj-desai-0309)  
 
 ---
-
